@@ -23,3 +23,9 @@ Multiple Network
 wget --no-cache -q -O multiple_network.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/multiple_network.sh && sudo chmod +x multiple_network.sh && ./multiple_network.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sonaric
+
+wget --no-cache -q -O sonaric.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/sonaric.sh && sudo chmod +x sonaric.sh && ./sonaric.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
