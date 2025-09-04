@@ -29,3 +29,9 @@ Sonaric
 wget --no-cache -q -O sonaric.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/sonaric.sh && sudo chmod +x sonaric.sh && ./sonaric.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Privasea
+
+wget --no-cache -q -O privasea.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/privasea.sh && sudo chmod +x privasea.sh && ./privasea.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
