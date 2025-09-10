@@ -41,3 +41,9 @@ Glacier
 wget --no-cache -q -O glacier.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/glacier.sh && sudo chmod +x glacier.sh && ./glacier.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Layeredge
+
+wget --no-cache -q -O layeredge.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/layeredge.sh && sudo chmod +x layeredge.sh && ./layeredge.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
