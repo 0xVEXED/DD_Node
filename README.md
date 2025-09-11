@@ -47,3 +47,9 @@ Layeredge
 wget --no-cache -q -O layeredge.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/layeredge.sh && sudo chmod +x layeredge.sh && ./layeredge.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Blockmesh
+
+wget --no-cache -q -O blockmesh.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/blockmesh.sh && sudo chmod +x blockmesh.sh && ./blockmesh.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
