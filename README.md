@@ -53,3 +53,9 @@ Blockmesh
 wget --no-cache -q -O blockmesh.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/blockmesh.sh && sudo chmod +x blockmesh.sh && ./blockmesh.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+OpenLedger
+
+wget --no-cache -q -O openledger.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/openledger.sh && sudo chmod +x openledger.sh && ./openledger.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
