@@ -59,3 +59,9 @@ OpenLedger
 wget --no-cache -q -O openledger.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/openledger.sh && sudo chmod +x openledger.sh && ./openledger.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hyperlane
+
+wget --no-cache -q -O hyperlane.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/hyperlane.sh && sudo chmod +x hyperlane.sh && ./hyperlane.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
