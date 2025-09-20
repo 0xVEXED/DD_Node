@@ -65,3 +65,9 @@ Hyperlane
 wget --no-cache -q -O hyperlane.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/hyperlane.sh && sudo chmod +x hyperlane.sh && ./hyperlane.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Waku
+
+wget --no-cache -q -O waku.sh https://raw.githubusercontent.com/0xVEXED/DD_Node/main/waku.sh && sudo chmod +x waku.sh && ./waku.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
